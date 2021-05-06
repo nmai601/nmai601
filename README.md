@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [![Github Badge](https://img.shields.io/badge/-GITHUB-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nmai601/)](https://www.github.com/nmai601/) 
 -->
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nmai601@gmail.com)](mailto:nmai601@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmai601/)](https://www.linkedin.com/in/nmai601/) [![Github Badge](https://img.shields.io/badge/-GITHUB-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nmai601/)](https://www.github.com/nmai601/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nmai601/)](https://www.linkedin.com/in/nmai601/) 
 * 💻 Full Stack Engineer, currently looking for a full time position
 * 📜 Hack Reactor and UC Irvine Alum (BS Mechanical Engineering, Minor Information & Computer Science)
-* 🌎 World Traveler - 14 counties and counting
+* 🌎 World Traveler - 14 countries and counting
 
 ## Tech Stack
 ### Languages: 
